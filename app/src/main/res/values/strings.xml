@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tutorial6</string>
+    <string name="txtWelcome">Welcome</string>
+    <string name="splashText">ChiRag Technology</string>
+    <string name="loginScreen">Login</string>
+    <string name="welcomeScreen">Welcome</string>
+
+    <string name="UsernameHint">Enter Username</string>
+    <string name="PasswordHint">Enter Password</string>
+
+</resources>
